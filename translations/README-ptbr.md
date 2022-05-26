@@ -263,19 +263,19 @@ Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera,
 ## Processo de Entrevista e Preparação Geral para a Entrevista
 
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/) (Usando o Quadro Branco Efetivamente durante Entrevistas de Programação)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
-- [ ] Decifrando A Entrevista de Programação Série 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (Gayle L McDowell - Decifrando A Entrevista de Programação - vídeo)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ) (Decifrando a Entrevista de Programação com o Autor Gayle Laakmann McDowell - vídeo)
-- [ ] Como Conseguir um Emprego em uma das 4 Gigantes:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8) (Como Conseguir um Emprego em uma das 4 Gigantes - Amazon, Facebook, Google e Microsoft - vídeo)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
+- [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/) (Usando o Quadro Branco Efetivamente durante Entrevistas de Programação)
+- [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
+- [x] Decifrando A Entrevista de Programação Série 1:
+    - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (Gayle L McDowell - Decifrando A Entrevista de Programação - vídeo)
+    - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ) (Decifrando a Entrevista de Programação com o Autor Gayle Laakmann McDowell - vídeo)
+- [x] Como Conseguir um Emprego em uma das 4 Gigantes:
+    - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8) (Como Conseguir um Emprego em uma das 4 Gigantes - Amazon, Facebook, Google e Microsoft - vídeo)
 
-- [ ] Cursos de Preparação:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed) (Entrevista de Engenheiro de Software Unleashed - curso pago):
+- [x] Cursos de Preparação:
+    - [x] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed) (Entrevista de Engenheiro de Software Unleashed - curso pago):
         - Aprenda com um ex-entrevistador da Google como se preparar para entrevistas de engenheiro de software.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): (Python para Estrutura de Dados, Algoritmos e Entrevistas! - curso pago) 
+    - [x] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): (Python para Estrutura de Dados, Algoritmos e Entrevistas! - curso pago) 
         - Um curso de preparação para entrevistas focado em Python, que cobre estrutura de dados, algoritmos, entrevistas simuladas e muito mais.
 
 ## Escolha Uma Linguagem para a Entrevista
